@@ -27,3 +27,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Cool-Engr&show_icons=true&locale=en" alt="alexander-macri" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Cool-Engr&" alt="alexander-macri" /></p>
+
+ - 📊 Development Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cool-Engr&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff" alt="Activity Graph"/>
+</div>
+
+<br>
