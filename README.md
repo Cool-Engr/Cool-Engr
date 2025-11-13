@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alexander Macri</h1>
-<h2 align="center">Software Engineer focus on Machine Learning, LLM and computer vision.</h2>
+<h1 align="center">Hi 👋, I'm Nirex</h1>
 
 <!-- <p align="center" style="display:flex; gap: 10px;">
   <img src="certificate/download1.png" width="33%">
@@ -10,23 +9,45 @@
   <img src="certificate/download6.png" width="33%">
 </p> -->
 
+<p align="center">
+  <a href="https://github.com/Cool-Engr"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Software%20Engineer;AI%20Engineer;Backend%20Developer;15%2B%20years%20of%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+</p>
 
 - 🎓 I am currently pursuing my **PhD in Artificial Intelligence**.
-- 🌱 I am currently learning **LeetCode and doing research in the domain of AI & ML**.
-- 🎯 My Goal is to Contribute to as many **open source project and grow up Coding Communitity** as possible.
+- 🌱 I am currently digging into **Data Science & Artificial Intelligence**.
+- 🎯 My Goal is to contribute to as many **open source project and grow up Coding Communitity** as possible.
 - ✨ I love to participate international **Coding Competitions**.
-- 💬 Ask me about **Machine Learning, Deep Learning, LLM, Computer Vision**
+- 💬 Ask me about **Python, Machine Learning, Deep Learning, LLM, Computer Vision**
 
-- 📫 How to reach me **digitallibrary849@gmail.com**
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/joshua-henry-a74a23391/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## Current Research & Innovation
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cool-Engr&show_icons=true&locale=en&layout=compact" alt="alexander-macri" /></p>
+- **Edge AI Performance Optimization** - Power-performance analysis, CUDA optimization, and hardware efficiency validation.      
+- **Temporal Intelligence** - Analyzing AI/ML systems and code evolution patterns over time.   
+- **AI Agent Architecture** - Rigorous benchmarking and mathematical validation of agent systems.   
+- **Neural Network Training & Optimization** - Advanced fine-tuning methodologies, QLoRA implementations, and efficient training pipelines.   
+- **Mathematical ML Foundations** - Bridging core mathematics with modern AI applications.   
+- **Next-Gen AI/ML Tools** - Building developer workflows for the future of AI/ML engineering.  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Cool-Engr&show_icons=true&locale=en" alt="alexander-macri" /></p>
+## Language and Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,go,rust,cpp,ts,js,html,css,latex,ai,fastapi,nodejs,spring,react,nextjs,svelte,tailwind,tauri,vite,electron,npm,figma,obsidian,aws,azure,gcp,terraform,docker,kubernetes,nginx,linux,arch,bsd,bash,sqlite,postgresql,dynamodb,cassandra,mongodb,elasticsearch,redis,graphql,kafka,rabbitmq,tensorflow,opencv,pytorch,grafana,prometheus,github,gitlab,git,vscode,md&perline=18" alt="Cre4T3Tiv3 skill icons" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Cool-Engr&" alt="alexander-macri" /></p>
+<div align="center">  
+  <img width="45%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cool-Engr&theme=2077" alt="Nirex's top lang stats per repo"/>
+  <img width="45%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cool-Engr&theme=2077" alt="Nirex's top lang stats per commit"/>
+</div>
+
+<div align="center"> 
+  <h3> 🏆 GitHub Profile Trophy </h3>
+</div>
+ <div>
+  <img width=1000 src="https://github-profile-trophy.vercel.app/?username=Cool-Engr&theme=onedark&bg_color=000000&column=-1"/>
+</div>
 
  - 📊 Development Activity
 
