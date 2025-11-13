@@ -1,13 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nirex</h1>
-
-<!-- <p align="center" style="display:flex; gap: 10px;">
-  <img src="certificate/download1.png" width="33%">
-  <img src="certificate/download2.png" width="33%">
-  <img src="certificate/download3.png" width="33%"><br>
-  <img src="certificate/download4.png" width="33%">
-  <img src="certificate/download5.png" width="33%">
-  <img src="certificate/download6.png" width="33%">
-</p> -->
+<h1 align="center">Hi 👋, I'm Joshua Henry</h1>
 
 <p align="center">
   <a href="https://github.com/Cool-Engr"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Software%20Engineer;AI%20Engineer;Backend%20Developer;15%2B%20years%20of%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
