@@ -42,9 +42,4 @@
   <img width="45%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cool-Engr&theme=2077" alt="Nirex's top lang stats per commit"/>
 </div>
 
- <div>
-  <img width=1000 src="https://github-profile-trophy.vercel.app/?username=Cool-Engr&theme=onedark&bg_color=000000&column=-1"/>
-</div>
-
-
 <br>
