@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Alexander Macri</h1>
 <h2 align="center">Software Engineer focus on Machine Learning, LLM and computer vision.</h2>
 
-<p align="center" style="display:flex; gap: 10px;">
+<!-- <p align="center" style="display:flex; gap: 10px;">
   <img src="certificate/download1.png" width="33%">
   <img src="certificate/download2.png" width="33%">
   <img src="certificate/download3.png" width="33%"><br>
   <img src="certificate/download4.png" width="33%">
   <img src="certificate/download5.png" width="33%">
   <img src="certificate/download6.png" width="33%">
-</p>
+</p> -->
 
 
 - 🎓 I am currently pursuing my **PhD in Artificial Intelligence**.
