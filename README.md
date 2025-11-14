@@ -1,25 +1,31 @@
-<h1 align="center">Hi 👋, I'm Joshua Henry</h1>
+<h1 align="center">Hi 👋, I'm Alexander Macri</h1>
 
-<p align="center">
-  <a href="https://github.com/Cool-Engr"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Software%20Engineer;AI%20Engineer;Backend%20Developer;15%2B%20years%20of%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+<p align="center" style="display:flex; gap: 10px;">
+  <img src="certificate/download1.png" width="33%">
+  <img src="certificate/download2.png" width="33%">
+  <img src="certificate/download3.png" width="33%"><br><br>
+  <img src="certificate/download4.png" width="33%">
+  <img src="certificate/download5.png" width="33%">
+  <img src="certificate/download6.png" width="33%">
 </p>
 
-- 🎓 I am currently pursuing my **PhD in Artificial Intelligence**.
-- 🌱 I am currently digging into **Data Science & Artificial Intelligence**.
-- 🎯 My Goal is to contribute to as many **open source project and grow up Coding Communitity** as possible.
-- ✨ I love to participate international **Coding Competitions**.
-- 💬 Ask me about **Python, Machine Learning, Deep Learning, LLM, Computer Vision**
+- 🎓 I'm working toward my **PhD in Artificial Intelligence**, specializing in advanced ML systems and intelligent automation.
+- 🌱 Growing my expertise in **Data Science & Artificial Intelligence** and **Full-Stack Development**.
+- 🎯 I aim to contribute to impactful **open source project** and help strengthen the global developer community.
+- ✨ I love participating in global **algorithm and Coding Competitions**.
+- 💬 Feel free to ask me about **Python, AI/DL, LLM, Computer Vision, FastAPI and modern web frameworks**
 
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/joshua-henry-a74a23391/)
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/alexanderdmacri/)
 
-## Current Research & Innovation
+## Research & Engineering Focus
 
-- **Edge AI Performance Optimization** - Power-performance analysis, CUDA optimization, and hardware efficiency validation.      
-- **Temporal Intelligence** - Analyzing AI/ML systems and code evolution patterns over time.   
-- **AI Agent Architecture** - Rigorous benchmarking and mathematical validation of agent systems.   
-- **Neural Network Training & Optimization** - Advanced fine-tuning methodologies, QLoRA implementations, and efficient training pipelines.   
-- **Mathematical ML Foundations** - Bridging core mathematics with modern AI applications.   
-- **Next-Gen AI/ML Tools** - Building developer workflows for the future of AI/ML engineering.  
+- **Edge AI Optimization** - Improving model performance, CUDA acceleration, and hardware efficiency.     
+- **Temporal ML & Code Evolution** - Studying how AI systems and codebases change over time.   
+- **AI Agent Architecture** - Designing and benchmarking next-generation agent frameworks.   
+- **Neural Network Training Efficiency** - QLoRa, fine-tuning pipelines, and scalable model optimization.   
+- **Mathematical ML Foundations** - Linking theoretical math to practical AI implementations.
+- **Full-Stack Engineering** - Building production-ready applications using modern frontend tools and backend APIs.  
+- **Next-Gen AI/ML Developer Tools** - Creating powerful workflows for future AI engineers.  
 
 ## Language and Tools
 <p align="center">
@@ -29,8 +35,8 @@
 </p>
 
 <div align="center">  
-  <img width="45%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cool-Engr&theme=2077" alt="Nirex's top lang stats per repo"/>
-  <img width="45%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cool-Engr&theme=2077" alt="Nirex's top lang stats per commit"/>
+  <img width="45%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cool-Engr&theme=2077" alt="Alexander's top lang stats per repo"/>
+  <img width="45%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cool-Engr&theme=2077" alt="Alexander's top lang stats per commit"/>
 </div>
 
 <br>
