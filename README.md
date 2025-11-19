@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Alexander Macri</h1>
+<h1 align="center">Hi 👋, I'm a Cool AI engineer.</h1>
 
-<p align="center" style="display:flex; gap: 10px;">
+<!-- <p align="center" style="display:flex; gap: 10px;">
   <img src="certificate/download1.png" width="33%">
   <img src="certificate/download2.png" width="33%">
   <img src="certificate/download3.png" width="33%"><br><br>
   <img src="certificate/download4.png" width="33%">
   <img src="certificate/download5.png" width="33%">
   <img src="certificate/download6.png" width="33%">
-</p>
+</p> -->
 
 - 🎓 I'm working toward my **PhD in Artificial Intelligence**, specializing in advanced ML systems and intelligent automation.
 - 🌱 Growing my expertise in **Data Science & Artificial Intelligence** and **Full-Stack Development**.
@@ -15,7 +15,6 @@
 - ✨ I love participating in global **algorithm and Coding Competitions**.
 - 💬 Feel free to ask me about **Python, AI/DL, LLM, Computer Vision, FastAPI and modern web frameworks**
 
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/alexanderdmacri/)
 
 ## Research & Engineering Focus
 
