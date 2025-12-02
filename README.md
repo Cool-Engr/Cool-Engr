@@ -3,7 +3,7 @@ src="https://camo.githubusercontent.com/2e36d1c48fae34094bb79174019bf10d3f39f5bb
 <p align="center"><img src="https://camo.githubusercontent.com/965c45ce1632684c87748d484623f6528dffed6655d56562de68934c8b324536/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d626c7572266865696768743d33303026636f6c6f723d6772616469656e7426746578743d57656c636f6d253230746f2532304d79253230253230476974487562267465787442673d66616c73652664657363416c69676e3d38322664657363416c69676e593d383426666f6e74416c69676e593d353026666f6e74416c69676e3d353026616e696d6174696f6e3d7477696e6b6c696e67" alt="waving" data-canonical-src="https://capsule-render.vercel.app/api?type=blur&amp;height=300&amp;color=gradient&amp;text=Welcom%20to%20My%20%20GitHub&amp;textBg=false&amp;descAlign=82&amp;descAlignY=84&amp;fontAlignY=50&amp;fontAlign=50&amp;animation=twinkling" style="max-width: 100%;"></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
-<h1 align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=hiras1388&label=Profile%20views&color=0e75b6&style=flat" alt="hiras1388" /> </p>
+<h1 align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=Cool-Engr&label=Profile%20views&color=0e75b6&style=flat" alt="hiras1388" /> </p>
 <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" style="width:70px; display: inline-block;" data-target="animated-image.originalImage">  Hi :) I'm Yolanda 🌈<br>
 </h1>
 
@@ -86,12 +86,6 @@ src="https://camo.githubusercontent.com/2e36d1c48fae34094bb79174019bf10d3f39f5bb
 
 <h2 class="heading-element" dir="auto"><img align="center" src="https://camo.githubusercontent.com/792339729babf55dc139ac8189abba7aa4ff21366eecda37b3f0c37200dfa871/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" data-canonical-src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" style="width: 40px; display: inline-block;" data-target="animated-image.originalImage">My github stats  <p align="center"><img alt="" src="https://s11.picofile.com/file/8406291442/7091.gif"></p> </h2>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Cool-Engr&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /><br>
-  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cool-Engr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cool-Engr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-</div><br>
-  <img src="https://github-profile-trophy.vercel.app?username=Cool-Engr&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"/><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cool-Engr&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph" />
 </div><br>
 
