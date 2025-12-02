@@ -67,11 +67,11 @@ src="https://camo.githubusercontent.com/2e36d1c48fae34094bb79174019bf10d3f39f5bb
 
 <h3 align="center">💻💜 I love this job 💜🌿</h3>
 
-<div align="center"><p align="center">https://github.com/user-attachments/assets/6ec6585f-bed9-4ce8-884c-f70974b222de</p></div><br>
+<!-- <div align="center"><p align="center">https://github.com/user-attachments/assets/6ec6585f-bed9-4ce8-884c-f70974b222de</p></div><br>
 
 <p align="center"><img src="https://camo.githubusercontent.com/5b5c039e0e17338e87aa9eaf0026a06f8b9774c8d752415a92e7ba581157abb8/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d7261646963616c" alt="" data-canonical-src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical" style="max-width: 100%;"></p>
 
-<div align="center"><br><img src="https://camo.githubusercontent.com/7d832752abcdb2b8a80f7ef2ede4365393688b86b273b52b4e984c71facb7dfb/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d466972612b436f64652673697a653d33302670617573653d34303026636f6c6f723d3030464646462677696474683d323030266c696e65733d2545322541432538362b436c69636b2b48657265" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=30&amp;pause=400&amp;color=00FFFF&amp;width=200&amp;lines=%E2%AC%86+Click+Here" style="max-width: 100%;"></div>
+<div align="center"><br><img src="https://camo.githubusercontent.com/7d832752abcdb2b8a80f7ef2ede4365393688b86b273b52b4e984c71facb7dfb/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d466972612b436f64652673697a653d33302670617573653d34303026636f6c6f723d3030464646462677696474683d323030266c696e65733d2545322541432538362b436c69636b2b48657265" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=30&amp;pause=400&amp;color=00FFFF&amp;width=200&amp;lines=%E2%AC%86+Click+Here" style="max-width: 100%;"></div> -->
 
 
 
