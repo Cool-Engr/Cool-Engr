@@ -30,34 +30,6 @@ src="https://camo.githubusercontent.com/2e36d1c48fae34094bb79174019bf10d3f39f5bb
 </article>
 
 
-<h2 class="heading-element" dir="auto"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/star.gif" height="27px" style="max-width: 100%; height: auto; max-height: 27px; display: inline-block;" data-target="animated-image.originalImage"> About me :</h2><br>
-
-<!-- <p align="center" style="display:flex; gap: 10px;">
-  <img src="certificate/download1.png" width="33%">
-  <img src="certificate/download2.png" width="33%">
-  <img src="certificate/download3.png" width="33%"><br><br>
-  <img src="certificate/download4.png" width="33%">
-  <img src="certificate/download5.png" width="33%">
-  <img src="certificate/download6.png" width="33%">
-</p> -->
-
-- 🎓 I'm working toward my **PhD in Artificial Intelligence**, specializing in advanced ML systems and intelligent automation.
-- 🌱 Growing my expertise in **Data Science & Artificial Intelligence** and **Full-Stack Development**.
-- 🎯 I aim to contribute to impactful **open source project** and help strengthen the global developer community.
-- ✨ I love participating in global **algorithm and Coding Competitions**<img src="https://github.com/HotCakeX/HotCakeX/raw/main/Private/Images/20-love-heart-gradient.apng" width="10" style="max-width: 100%;"><img src="https://github.com/HotCakeX/HotCakeX/raw/main/Private/Images/20-love-heart-gradient.apng" width="15" style="max-width: 100%;"><img src="https://github.com/HotCakeX/HotCakeX/raw/main/Private/Images/20-love-heart-gradient.apng" width="20" style="max-width: 100%;"><img src="https://github.com/HotCakeX/HotCakeX/raw/main/Private/Images/20-love-heart-gradient.apng" width="15" style="max-width: 100%;"><img src="https://github.com/HotCakeX/HotCakeX/raw/main/Private/Images/20-love-heart-gradient.apng" width="10" style="max-width: 100%;"><img src="https://github.com/HotCakeX/HotCakeX/raw/main/Private/Images/20-love-heart-gradient.apng" width="50" style="max-width: 100%;"><img src="https://github.com/HotCakeX/HotCakeX/raw/main/Private/Images/20-love-heart-gradient.apng" width="10" style="max-width: 100%;"><img src="https://github.com/HotCakeX/HotCakeX/raw/main/Private/Images/20-love-heart-gradient.apng" width="15" style="max-width: 100%;"><img src="https://github.com/HotCakeX/HotCakeX/raw/main/Private/Images/20-love-heart-gradient.apng" width="20" style="max-width: 100%;"><img src="https://github.com/HotCakeX/HotCakeX/raw/main/Private/Images/20-love-heart-gradient.apng" width="15" style="max-width: 100%;"><img src="https://github.com/HotCakeX/HotCakeX/raw/main/Private/Images/20-love-heart-gradient.apng" width="10" style="max-width: 100%;">.
-- 💬 Feel free to ask me about **Python, AI/DL, LLM, Computer Vision, FastAPI and modern web frameworks**
-
-
-## Research & Engineering Focus
-
-- <img src="https://github.com/HotCakeX/HotCakeX/raw/main/Private/Images/20-love-heart-gradient.apng" width="20" style="max-width: 100%;">**Edge AI Optimization** - Improving model performance, CUDA acceleration, and hardware efficiency.     
-- <img src="https://github.com/HotCakeX/HotCakeX/raw/main/Private/Images/20-love-heart-gradient.apng" width="20" style="max-width: 100%;">**Temporal ML & Code Evolution** - Studying how AI systems and codebases change over time.   
-- <img src="https://github.com/HotCakeX/HotCakeX/raw/main/Private/Images/20-love-heart-gradient.apng" width="20" style="max-width: 100%;">**AI Agent Architecture** - Designing and benchmarking next-generation agent frameworks.   
-- <img src="https://github.com/HotCakeX/HotCakeX/raw/main/Private/Images/20-love-heart-gradient.apng" width="20" style="max-width: 100%;">**Neural Network Training Efficiency** - QLoRa, fine-tuning pipelines, and scalable model optimization.   
-- <img src="https://github.com/HotCakeX/HotCakeX/raw/main/Private/Images/20-love-heart-gradient.apng" width="20" style="max-width: 100%;">**Mathematical ML Foundations** - Linking theoretical math to practical AI implementations.
-- <img src="https://github.com/HotCakeX/HotCakeX/raw/main/Private/Images/20-love-heart-gradient.apng" width="20" style="max-width: 100%;">**Full-Stack Engineering** - Building production-ready applications using modern frontend tools and backend APIs.  
-- <img src="https://github.com/HotCakeX/HotCakeX/raw/main/Private/Images/20-love-heart-gradient.apng" width="20" style="max-width: 100%;">**Next-Gen AI/ML Developer Tools** - Creating powerful workflows for future AI engineers.  
-
 ## Language and Tools
 <p align="center">
   <a href="https://skillicons.dev">
