@@ -1,9 +1,8 @@
 <div align="center">
 
-<!-- HERO HEADER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2540,100:1e90ff&height=220&section=header&text=Yolanda Wright&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
-
+<img align="center" src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" style="width:70px; display: inline-block;" data-target="animated-image.originalImage">  Hi :) I'm Yolanda 🌈<br>
+</h1>
 <h3>Senior Software Engineer • System Architect • AI engineer • Web3 builder</h3>
 
 <p>
@@ -214,3 +213,7 @@ I'm a seasoned **Senior Software Engineer** with **10+ years of experience** in 
 ---
 
 > "engineering is not just writing code — it's designing systems that survive change."
+
+<div align="center">
+	<img width="98%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&section=footer"/>
+</div>
