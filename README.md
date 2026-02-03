@@ -1,71 +1,216 @@
-<img
-src="https://camo.githubusercontent.com/2e36d1c48fae34094bb79174019bf10d3f39f5bb6949f38c680e662fcea8a65d/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d31303026636f6c6f723d303a4646303035432c35303a4236324246462c3130303a3134313332312673656374696f6e3d686561646572" width="100%" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;height=1800pxamp;color=0:FF005C,50:B62BFF,100:14132&amp;section=header" style="max-width: 100%;">
-<p align="center"><img src="https://camo.githubusercontent.com/965c45ce1632684c87748d484623f6528dffed6655d56562de68934c8b324536/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d626c7572266865696768743d33303026636f6c6f723d6772616469656e7426746578743d57656c636f6d253230746f2532304d79253230253230476974487562267465787442673d66616c73652664657363416c69676e3d38322664657363416c69676e593d383426666f6e74416c69676e593d353026666f6e74416c69676e3d353026616e696d6174696f6e3d7477696e6b6c696e67" alt="waving" data-canonical-src="https://capsule-render.vercel.app/api?type=blur&amp;height=300&amp;color=gradient&amp;text=Welcom%20to%20My%20%20GitHub&amp;textBg=false&amp;descAlign=82&amp;descAlignY=84&amp;fontAlignY=50&amp;fontAlign=50&amp;animation=twinkling" style="max-width: 100%;"></p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-
-<h1 align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=Cool-Engr&label=Profile%20views&color=0e75b6&style=flat" alt="hiras1388" /> </p>
-<img align="center" src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" style="width:70px; display: inline-block;" data-target="animated-image.originalImage">  Hi :) I'm Yolanda 🌈<br>
-</h1>
-
-<h3 align="center"><img align="center" src="https://user-images.githubusercontent.com/118815227/218338072-ea477aa8-1374-4e2d-8dfd-dd8cc4e45656.gif" style="width: 45px; display: inline-block;" data-target="animated-image.originalImage">  I really like music 🎧💜</h3>
-<p align="center"><img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" style="width:322px; display: inline-block;" data-target="animated-image.originalImage"></p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/now-playing.svg" style="max-width: 100%;"></p>
-
-<article class="markdown-body entry-content container-lg f5" itemprop="text">
-<div class="markdown-heading" dir="auto"><h1 class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-  <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-
-<p align="center" dir="auto">
-  <a href="https://readme.andyruwruw.com/api/now-playing?open" rel="nofollow">
-    
-  </a>
-</p>
-<p align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/top-played.svg"><img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/top-played.svg" style="max-width: 100%;"></a>
-  
-</p>
-<p align="center" dir="auto">
- <img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-</article>
-
-
-## Language and Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,go,rust,cpp,ts,js,html,css,latex,ai,fastapi,nodejs,spring,react,nextjs,svelte,tailwind,tauri,vite,electron,npm,figma,obsidian,aws,azure,gcp,terraform,docker,kubernetes,nginx,linux,arch,bsd,bash,sqlite,postgresql,dynamodb,cassandra,mongodb,elasticsearch,redis,graphql,kafka,rabbitmq,tensorflow,opencv,pytorch,grafana,prometheus,github,gitlab,git,vscode,md&perline=18" alt="Cre4T3Tiv3 skill icons" />
-  </a>
-</p>
-
-<h3 align="center">💻💜 I love this job 💜🌿</h3>
-
-<!-- <div align="center"><p align="center">https://github.com/user-attachments/assets/6ec6585f-bed9-4ce8-884c-f70974b222de</p></div><br>
-
-<p align="center"><img src="https://camo.githubusercontent.com/5b5c039e0e17338e87aa9eaf0026a06f8b9774c8d752415a92e7ba581157abb8/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d7261646963616c" alt="" data-canonical-src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical" style="max-width: 100%;"></p>
-
-<div align="center"><br><img src="https://camo.githubusercontent.com/7d832752abcdb2b8a80f7ef2ede4365393688b86b273b52b4e984c71facb7dfb/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d466972612b436f64652673697a653d33302670617573653d34303026636f6c6f723d3030464646462677696474683d323030266c696e65733d2545322541432538362b436c69636b2b48657265" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=30&amp;pause=400&amp;color=00FFFF&amp;width=200&amp;lines=%E2%AC%86+Click+Here" style="max-width: 100%;"></div> -->
-
-
-
- <div align="center" class="markdown-heading" dir="auto">
-    <h2 class="heading-element" dir="auto"><img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" height="30" width="30"> My activity statistics on GitHub</h2>
-    <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hiras1388/Hiras1388/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hiras1388/Hiras1388/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hiras1388/Hiras1388/output/pacman-contribution-graph.svg">
-  </picture>
-  </div>
-
-<h2 class="heading-element" dir="auto"><img align="center" src="https://camo.githubusercontent.com/792339729babf55dc139ac8189abba7aa4ff21366eecda37b3f0c37200dfa871/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" data-canonical-src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" style="width: 40px; display: inline-block;" data-target="animated-image.originalImage">My github stats  <p align="center"><img alt="" src="https://s11.picofile.com/file/8406291442/7091.gif"></p> </h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cool-Engr&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph" />
-</div><br>
 
-<p align="center"><img alt="thanks for your visit" src="https://camo.githubusercontent.com/6ebb89341c4e25dff552f99e8db5374fad4f1b57e49335e808c3543295370a07/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d506f7070696e732673697a653d33352670617573653d3130303026636f6c6f723d37453341434543452663656e7465723d74727565267643656e7465723d747275652677696474683d343335266c696e65733d5468616e6b732b666f722b796f75722b766973697421" data-canonical-src="https://readme-typing-svg.demolab.com?font=Poppins&amp;size=35&amp;pause=1000&amp;color=7E3ACECE&amp;center=true&amp;vCenter=true&amp;width=435&amp;lines=Thanks+for+your+visit!" style="max-width: 100%;"><img src="https://camo.githubusercontent.com/6f7b76611449b965092aee7c4bf135e656f4e9416189c0b84020fd9853cd1f93/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" height="200" alt="Vector Tool" data-canonical-src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" style="width:75px; height: auto; max-height:80px; display: inline-block;" data-target="animated-image.originalImage">
+<!-- HERO HEADER -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2540,100:1e90ff&height=220&section=header&text=Yolanda Wright&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+
+<h3>Senior Software Engineer • System Architect • AI engineer • Web3 builder</h3>
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=building%20scalable%20platforms;engineering%20enterprise%20systems;designing%20intelligent%20infrastructure;creating%20future-proof%20technology&font=Fira%20Code&center=true&width=820&height=80&color=58a6ff&vCenter=true&size=28">
 </p>
 
-<div dir="auto" align="center">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/sminerport/snk/output/github-contribution-grid-snake-reverse.svg"><img src="https://raw.githubusercontent.com/sminerport/snk/output/github-contribution-grid-snake-reverse.svg" width="70%" alt="Snake Game" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="210px" alt="Computer illustration" style="max-width: 100%;"></a>
+[![GitHub Followers](https://img.shields.io/github/followers/cool-engr?label=Follow&style=social)](https://github.com/cool-engr)
+[![Years of Experience](https://img.shields.io/badge/10%2B%20Years-Expert-%23FF6B00)](https://github.com/Cool-Engr)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Cool-Engr.Cool-Engr)](https://github.com/Cool-Engr)
 </div>
-<img src="https://camo.githubusercontent.com/f84ebda4e5f6b42aec583572e335c4eced3ce4537799639ada08b478d5dd0005/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d31303026636f6c6f723d303a4646303035432c35303a4236324246462c3130303a3134313332312673656374696f6e3d666f6f74657226726576657273616c3d74727565" width="100%" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;height=100&amp;color=0:FF005C,50:B62BFF,100:141321&amp;section=footer&amp;reversal=true" style="max-width: 100%;">
+
+<p align="center">
+  <a href="https://github.com/Cool-Engr"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Software%20Engineer;AI%20Engineer;Blockchain%20Engineer;10%2B%20years%20of%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+</p>
+
+## 👨‍💻 About Me
+
+
+I'm a seasoned **Senior Software Engineer** with **10+ years of experience** in building intelligent full-stack systems with **Web3** and **AI** integrations.
+
+---
+
+### 🔍 Professional Focus
+
+- **Full-Stack Development**: Building robust applications with modern frameworks and best practices
+- **AI/ML Engineering**: Developing and deploying intelligent systems using TensorFlow, PyTorch, and LangChain
+- **Blockchain Development**: Smart contract development, DApp architecture, and Web3 integration
+- **SportsBook and Casino**:
+  BetsApi, Betradar, BetEXCH, Betfaire, Lsports API integration, Fair Web game development (Blackjack, Poker, Roulette, Crash, Coinflip, Hilo, etc), Ezugi, Vivo, Sagaming, TVBET, Live Games, Evolution, Betsoft, NSoft, Hog, NetGame
+- **Cloud & DevOps**: Expertise in AWS, GCP, Azure, Kubernetes, and CI/CD pipelines
+- **Performance Optimization**: Architecting scalable systems that handle millions of users
+
+### 🛠️ **Tech Stack**
+
+#### **Programming Languages**
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white)
+![Scala](https://img.shields.io/badge/-Scala-DC322F?logo=scala&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
+![Elixir](https://img.shields.io/badge/-Elixir-4B275F?logo=elixir&logoColor=white)
+![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?logo=haskell&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
+![Perl](https://img.shields.io/badge/-Perl-39457E?logo=perl&logoColor=white)
+
+#### **Frontend**
+
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=white)
+![Gatsby](https://img.shields.io/badge/-Gatsby-663399?logo=gatsby&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![Material UI](https://img.shields.io/badge/-Material%20UI-007FFF?logo=mui&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
+
+#### **Backend & Frameworks**
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
+![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?logo=dotnet&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?logo=ruby-on-rails&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
+![Phoenix](https://img.shields.io/badge/-Phoenix-FD4F00?logo=phoenixframework&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
+![Apollo](https://img.shields.io/badge/-Apollo-311C87?logo=apollographql&logoColor=white)
+
+#### **Databases**
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+![T-SQL](https://img.shields.io/badge/-T--SQL-CC2927?logo=microsoft-sql-server&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
+![Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?logo=apache-cassandra&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?logo=amazon-dynamodb&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?logo=elasticsearch&logoColor=white)
+![Neo4j](https://img.shields.io/badge/-Neo4j-4581C3?logo=neo4j&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
+![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white)
+
+#### **Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![OpenShift](https://img.shields.io/badge/-OpenShift-EE0000?logo=red-hat-open-shift&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FCA121?logo=gitlab&logoColor=white)
+![CircleCI](https://img.shields.io/badge/-CircleCI-343434?logo=circleci&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
+
+#### **Tools & Methodologies**
+
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?logo=bitbucket&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/-Confluence-172B4D?logo=confluence&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black)
+![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
+![Agile](https://img.shields.io/badge/-Agile-0091D5?logo=agile&logoColor=white)
+![Scrum](https://img.shields.io/badge/-Scrum-0091D5?logo=scrum&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+
+#### **AI/ML**
+
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-121212?logo=chainlink&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
+
+#### **Blockchain & Web3**
+
+![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white)
+![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?logo=web3dotjs&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/-Ethers.js-2535A0?logo=ethereum&logoColor=white)
+![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?logo=ethereum&logoColor=white)
+![Hardhat](https://img.shields.io/badge/-Hardhat-FFF100?logo=hardhat&logoColor=black)
+![Truffle](https://img.shields.io/badge/-Truffle-5E464D?logo=truffle&logoColor=white)
+![Metamask](https://img.shields.io/badge/-Metamask-F6851B?logo=metamask&logoColor=white)
+![IPFS](https://img.shields.io/badge/-IPFS-65C2CB?logo=ipfs&logoColor=white)
+![Polygon](https://img.shields.io/badge/-Polygon-8247E5?logo=polygon&logoColor=white)
+![Chainlink](https://img.shields.io/badge/-Chainlink-375BD2?logo=chainlink&logoColor=white)
+
+#### **SportsBook, Gambling & Casino**
+
+![BetsAPI](https://img.shields.io/badge/-BetsAPI-00A86B?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAyMkgyMkwxMiAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white)
+![Betradar](https://img.shields.io/badge/-Betradar-FF6B00?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAyMkgyMkwxMiAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white)
+![Betfair](https://img.shields.io/badge/-Betfair-FFD700?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAyMkgyMkwxMiAyWiIgZmlsbD0iYmxhY2siLz4KPC9zdmc+&logoColor=black)
+![Lsports](https://img.shields.io/badge/-Lsports-0066CC?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAyMkgyMkwxMiAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white)
+![Ezugi](https://img.shields.io/badge/-Ezugi-E63946?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAyMkgyMkwxMiAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white)
+![Evolution](https://img.shields.io/badge/-Evolution-FF0000?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAyMkgyMkwxMiAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white)
+![Vivo Gaming](https://img.shields.io/badge/-Vivo%20Gaming-9B59B6?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAyMkgyMkwxMiAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white)
+![Betsoft](https://img.shields.io/badge/-Betsoft-1E3A8A?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAyMkgyMkwxMiAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white)
+![TVBET](https://img.shields.io/badge/-TVBET-00B4D8?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAyMkgyMkwxMiAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white)
+![Sagaming](https://img.shields.io/badge/-Sagaming-F77F00?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAyMkgyMkwxMiAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white)
+![NSoft](https://img.shields.io/badge/-NSoft-2ECC71?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAyMkgyMkwxMiAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white)
+![Casino Games](https://img.shields.io/badge/-Casino%20Games-8B0000?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAyMkgyMkwxMiAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white)
+![Live Casino](https://img.shields.io/badge/-Live%20Casino-DC143C?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAyMkgyMkwxMiAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white)
+
+## 🧠 Engineering Principles
+
+* systems > features
+* maintainability > shortcuts
+* clarity > cleverness
+* automation > repetition
+* performance is a feature
+* security by design
+
+---
+
+## 📈 Contribution Graph
+
+![contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=Cool-Engr\&theme=github-compact)
+
+![Top Langs](https://github-readme-stats-clone-sigma.vercel.app/api/top-langs/?username=cool-engr&layout=compact&theme=radical&card_width=310&cache_seconds=3600&exclude_repo=github-readme-stats-clone,github-readme-streak-stats-clone&custom_title=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Most&nbsp;Used&nbsp;Languages)  
+
+![GitHub Stats](https://github-readme-stats-clone-sigma.vercel.app/api?username=cool-engr&hide=contribs,prs&show_icons=true&theme=radical&card_width=495&cache_seconds=3600&custom_title=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Github&nbsp;Stats)
+
+
+
+---
+
+> "engineering is not just writing code — it's designing systems that survive change."
