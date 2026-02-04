@@ -1,6 +1,10 @@
 <div align="center">
 
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8956e5&height=200&section=header&text=Yolanda Wright&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=%&descAlignY=65&descSize=25" />
+</p>
+
 <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" style="width:70px; display: inline-block;" data-target="animated-image.originalImage">  Hi :) I'm Yolanda 🌈<br>
 </h1>
 <h3>Senior Software Engineer • System Architect • AI engineer • Web3 builder</h3>
