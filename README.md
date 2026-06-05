@@ -212,7 +212,7 @@ I'm a seasoned **Senior Software Engineer** with **10+ years of experience** in 
 
 ---
 
-> "engineering is not just writing code, it's designing systems that survive change."
+> "engineering is not just writing code - it's designing systems that survive change."
 
 <div align="center">
 	<img width="98%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&section=footer"/>
