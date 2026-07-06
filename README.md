@@ -27,7 +27,7 @@ I'm a seasoned **Senior Software Engineer** with **10+ years of experience** in 
 
 ### 🔍 Professional Focus
 
-- **Full-Stack Development**: Building robust applications with modern frameworks and best practices
+- **Full Stack Development**: Building robust applications with modern frameworks and best practices
 - **AI/ML Engineering**: Developing and deploying intelligent systems using TensorFlow, PyTorch, and LangChain
 - **Blockchain Development**: Smart contract development, DApp architecture, and Web3 integration
 - **SportsBook and Casino**:
