@@ -3,7 +3,7 @@
 
 <h1>  Hi :) I'm Yolanda 🌈<br>
 </h1>
-<h3>Senior Software Engineer • System Architect • AI engineer • Web3 builder</h3>
+<h3>Senior Software Engineer • Frontend Engineer • Full Stack Engineer</h3>
 
 <p>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=building%20scalable%20platforms;engineering%20enterprise%20systems;designing%20intelligent%20infrastructure;creating%20future-proof%20technology&font=Fira%20Code&center=true&width=820&height=80&color=58a6ff&vCenter=true&size=28">
@@ -21,19 +21,21 @@
 ## 👨‍💻 About Me
 
 
-I'm a seasoned **Senior Software Engineer** with **10+ years of experience** in building intelligent full-stack systems with **Web3** and **AI** integrations.
+I'm a seasoned Senior Full-Stack Engineer with over a decade of experience building end-to-end digital products at scale. My core strength is the frontend crafting performant, accessible, and pixel perfect user interfaces with React, TypeScript, and Next.js while owning the full stack from API design to database optimization. I've architected complex state management solutions, built reusable component libraries, and designed RESTful and GraphQL backends that power millions of users. I'm equally comfortable debugging a tricky race condition in the UI as I am optimizing a slow database query or designing a resilient cloud infrastructure.
+
+
 
 ---
 
 ### 🔍 Professional Focus
 
-- **Full Stack Development**: Building robust applications with modern frameworks and best practices
-- **AI/ML Engineering**: Developing and deploying intelligent systems using TensorFlow, PyTorch, and LangChain
-- **Blockchain Development**: Smart contract development, DApp architecture, and Web3 integration
-- **SportsBook and Casino**:
-  BetsApi, Betradar, BetEXCH, Betfaire, Lsports API integration, Fair Web game development (Blackjack, Poker, Roulette, Crash, Coinflip, Hilo, etc), Ezugi, Vivo, Sagaming, TVBET, Live Games, Evolution, Betsoft, NSoft, Hog, NetGame
+- **Full Stack Development**: Building robust, production-grade applications with modern JavaScript/TypeScript frameworks and industry best practices
+- **Frontend Engineering**: Crafting performant, accessible, and responsive user interfaces with React, Next.js, and modern styling solutions (Tailwind CSS, CSS-in-JS, Material-UI)
+- **State Management**: Expert in Redux, Zustand, Jotai, React Query, and Context API for predictable and scalable application state
+- **Backend Systems**:
+  Designing and implementing RESTful APIs, GraphQL schemas, and microservices with Node.js, Express, and NestJS
 - **Cloud & DevOps**: Expertise in AWS, GCP, Azure, Kubernetes, and CI/CD pipelines
-- **Performance Optimization**: Architecting scalable systems that handle millions of users
+- **Performance Optimization**: Architecting high-performance systems with code splitting, lazy loading, caching strategies, and database indexing for millions of concurrent users
 
 ### 🛠️ **Tech Stack**
 
@@ -188,15 +190,6 @@ I'm a seasoned **Senior Software Engineer** with **10+ years of experience** in 
 ![NSoft](https://img.shields.io/badge/-NSoft-2ECC71?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAyMkgyMkwxMiAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white)
 ![Casino Games](https://img.shields.io/badge/-Casino%20Games-8B0000?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAyMkgyMkwxMiAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white)
 ![Live Casino](https://img.shields.io/badge/-Live%20Casino-DC143C?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAyMkgyMkwxMiAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white)
-
-## 🧠 Engineering Principles
-
-* systems > features
-* maintainability > shortcuts
-* clarity > cleverness
-* automation > repetition
-* performance is a feature
-* security by design
 
 ---
 
