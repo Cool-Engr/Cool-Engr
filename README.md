@@ -5,17 +5,13 @@
 </h1>
 <h3>Senior Software Engineer • Frontend Engineer • Full Stack Engineer</h3>
 
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=building%20scalable%20platforms;engineering%20enterprise%20systems;designing%20intelligent%20infrastructure;creating%20future-proof%20technology&font=Fira%20Code&center=true&width=820&height=80&color=58a6ff&vCenter=true&size=28">
-</p>
-
 [![GitHub Followers](https://img.shields.io/github/followers/cool-engr?label=Follow&style=social)](https://github.com/cool-engr)
 [![Years of Experience](https://img.shields.io/badge/10%2B%20Years-Expert-%23FF6B00)](https://github.com/Cool-Engr)
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Cool-Engr.Cool-Engr)](https://github.com/Cool-Engr)
 </div>
 
 <p align="center">
-  <a href="https://github.com/Cool-Engr"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Software%20Engineer;AI%20Engineer;Blockchain%20Engineer;10%2B%20years%20of%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/Cool-Engr"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Software%20Engineer;10%2B%20years%20of%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 ## 👨‍💻 About Me
