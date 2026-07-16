@@ -25,7 +25,7 @@ I'm a seasoned Senior Full-Stack Engineer with over a decade of experience build
 
 ### 🔍 Professional Focus
 
-- **Full Stack Development**: Building robust, production-grade applications with modern JavaScript/TypeScript frameworks and industry best practices
+- **Full-Stack Development**: Building robust, production-grade applications with modern JavaScript/TypeScript frameworks and industry best practices
 - **Frontend Engineering**: Crafting performant, accessible, and responsive user interfaces with React, Next.js, and modern styling solutions (Tailwind CSS, CSS-in-JS, Material-UI)
 - **State Management**: Expert in Redux, Zustand, Jotai, React Query, and Context API for predictable and scalable application state
 - **Backend Systems**:
